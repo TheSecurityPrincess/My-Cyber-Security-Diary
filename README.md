@@ -3,6 +3,6 @@ My learning journey and notes
 
 # About Me
 # Goal
-# What's in this repo
+# What's in this Repo
 # Current Focus
 # Progress

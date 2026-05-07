@@ -1,8 +1,20 @@
 May 04
 
-Topic:
-What it is:
+Topic: What is a Network?
+What it is: A network is devices communicating with each other. 
+
+How it works: 
+-Networking is devices communicating with each other, sharing data, and trying to get from point A to point B.
+-A switch connects multiple devices (more than two) on the same local network so that they can communicate with each other.
+-A router helps one network communicate to another network. It connects networks together. Multiple groups of devices, 
+or seperate networks, need a router to help move traffic between them.
+-The internet is just a bunch of networks connected and communicating with each other.
+
+
+Topic: What is a Switch?
+What it is: A switch connects devices on a local network and sends traffic "intelligently" meaning unlike a hub, 
+it does not flood traffic out of every port. It learns device locations using source MAC addresses and
+stores them in the CAM (Content Addressable Memory) table.
+
 How it works:
-Why it matters in pentesting:
-Related tools:
-Want to explore further:
+-A switch fowards traffic using destination MAC address, they are layer 2 devices dealing in frames.

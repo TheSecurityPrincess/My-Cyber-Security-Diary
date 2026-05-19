@@ -17,4 +17,8 @@ it does not flood traffic out of every port. It learns device locations using so
 stores them in the CAM (Content Addressable Memory) table.
 
 How it works:
+-Before the switch, there was the hub which is not as smart as a switch.
+-Without a switch the devices are like lonely islands with ethernet cables with no way to communicate with other devices.
+-Ethernet cables carry electrical signals over metal wires, and the switch is receiving those signals and deciding where they need to go next.
 -A switch fowards traffic using destination MAC address, they are layer 2 devices dealing in frames.
+-Switches are better than hubs because they learn where devices are, remember it, and use that information to make forwarding decisions.

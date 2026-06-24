@@ -1,15 +1,15 @@
 # Understanding the OSI Model
--Open Systems Interconnections Reference Model
--A model used in IT to describe the process that data takes as it traverses our networks
--It's not a detailed description on the data, it's a guide of this model, showing the broad overview of how data traverses our systems
--This is not the OSI protocol suite, it can be applied to many different protocols including tcp/ip protocols that we use today
--There are many different protocols that operate at every layer
--Understanding this model helps us converse with others in information technologies in a way we will all understand, no matter where they work. If I mention "OSI layer 7" or "OSI layer 5" they will understand what that means and the affect it has on the overall operation of the network
--Layer 7 Application
--Layer 6 Presentation
--Layer 5 Session
--Layer 4 Transport
--Layer 3 Network
--Layer 2 Data Link
--Layer 1 Physical
--(All People Seem To Need Data Processing) *based on the first letter of each layer, use this to help remember the layers*
+- Open Systems Interconnections Reference Model
+- A model used in IT to describe the process that data takes as it traverses our networks
+- It's not a detailed description on the data, it's a guide of this model, showing the broad overview of how data traverses our systems
+- This is not the OSI protocol suite, it can be applied to many different protocols including tcp/ip protocols that we use today
+- There are many different protocols that operate at every layer
+- Understanding this model helps us converse with others in information technologies in a way we will all understand, no matter where they work. If I mention "OSI layer 7" or "OSI layer 5" they will understand what that means and the affect it has on the overall operation of the network
+- Layer 7 Application
+- Layer 6 Presentation
+- Layer 5 Session
+- Layer 4 Transport
+- Layer 3 Network
+- Layer 2 Data Link
+- Layer 1 Physical
+- All People Seem To Need Data Processing (*based on the first letter of each layer, use this to help remember the layers*)

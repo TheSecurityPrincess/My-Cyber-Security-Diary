@@ -1,4 +1,4 @@
-Understanding the OSI Model
+# Understanding the OSI Model
 -Open Systems Interconnections Reference Model
 -A model used in IT to describe the process that data takes as it traverses our networks
 -It's not a detailed description on the data, it's a guide of this model, showing the broad overview of how data traverses our systems
